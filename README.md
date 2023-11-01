@@ -112,7 +112,8 @@ Explanation: The analysis showed that the United States and Europe had the highe
 Problem: The regional disparities in customer retention and impact highlight potential issues for the bank. Lower retention rates in certain regions could be due to various factors, such as inadequate services, lack of tailored products, or external economic challenges. The bank needs to investigate the specific reasons behind these disparities and develop strategies to address them. Neglecting regions with lower impact could result in missed business opportunities.
 
 
-![Banking Trends]![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c79ac6f3-9e1a-49ef-8ecc-8f86ed74f77d)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/cc0b307c-2f36-476a-b115-d86ecf50bc18)
+
 
 
 
