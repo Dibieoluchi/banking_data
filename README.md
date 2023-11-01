@@ -66,7 +66,7 @@ Problem: While the analysis provides valuable information about customer transac
 
 Explanation: The analysis indicated that approximately 14.28% of customers had churned by the end of 2020, while 85.72% were retained. Furthermore, churned customers had varying transaction amounts, with some making high-value transactions.
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/a3a02f0f-9dc7-4f3f-9a5f-3fb96c3c234c)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c8011033-9f5a-4808-a29e-4326034b0ca7)
 
 # churned_summary
 count    5864.000000
@@ -112,7 +112,8 @@ Explanation: The analysis showed that the United States and Europe had the highe
 Problem: The regional disparities in customer retention and impact highlight potential issues for the bank. Lower retention rates in certain regions could be due to various factors, such as inadequate services, lack of tailored products, or external economic challenges. The bank needs to investigate the specific reasons behind these disparities and develop strategies to address them. Neglecting regions with lower impact could result in missed business opportunities.
 
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c2d38289-e1c2-4fce-82cd-11babf640ebf)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/920487b2-48e8-46e5-9a6e-774f4405fc99)
+
 
 
 
