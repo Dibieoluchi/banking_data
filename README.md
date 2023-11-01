@@ -42,12 +42,13 @@ Python Skills:
 
 Database ERD
 The database schema for this analysis consists of three key tables:
+
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/08d4535a-7047-41f4-ad6d-b51351766cff)
 
 
-world_regions: Contains data on various world regions and their corresponding codes and names.
-user_nodes: Holds details about consumers' banking nodes, including their unique consumer IDs, associated region IDs, node IDs, start dates, and end dates.
-user_transaction: A comprehensive repository of customer transactions, including data such as consumer IDs, transaction dates, types of transactions, and transaction amounts.
+1. world_regions: Contains data on various world regions and their corresponding codes and names.
+2. user_nodes: Holds details about consumers' banking nodes, including their unique consumer IDs, associated region IDs, node IDs, start dates, and end dates.
+3. user_transaction: A comprehensive repository of customer transactions, including data such as consumer IDs, transaction dates, types of transactions, and transaction amounts.
 The relationship between these tables is established through foreign key relationships, which allow for the creation of meaningful queries that draw connections between customer behavior and regional impact.
 
 Analysis and Insights Generated
@@ -66,7 +67,8 @@ Transaction Types
 Explanation: The primary transaction types observed were withdrawals, purchases, and deposits. Deposits were common and significant, with customers making around 5 deposits on average, totaling approximately $2,718 each.
 
 Problem: While the analysis provides valuable information about customer transaction behavior, it raises questions about the reasons behind high deposit activity. Are customers using the bank primarily as a savings institution? Are there enough investment and lending opportunities to make use of these deposits? It's essential for the bank to ensure that customers' financial needs and expectations are being met effectively.
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/d7676fef-73e9-4cc0-88a7-d111c9a35b4c)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c798831a-63fb-4742-b6ac-c8460578e070)
+
 
 
  Customer Churn Analysis
@@ -109,7 +111,8 @@ some customers have churned without making any transaction at all ,while others 
 
 Problem: Customer churn can be a significant issue for the bank. High churn rates indicate a potential loss of revenue, and understanding the reasons behind churn is critical. The observation that customers with 'deposit' transaction behavior exhibit a higher likelihood of churning could suggest that the bank needs to provide more diverse and tailored financial products to retain these customers. Additionally, identifying and retaining high-value churned customers should be a priority.
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/168e5854-012b-4a71-ac4c-ad820d919e0e)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/e08bfa51-1db2-4366-8f14-ce9ee1d4875a)
+
 
 
 Regional Impact
@@ -119,8 +122,7 @@ Explanation: The analysis showed that the United States and Europe had the highe
 Problem: The regional disparities in customer retention and impact highlight potential issues for the bank. Lower retention rates in certain regions could be due to various factors, such as inadequate services, lack of tailored products, or external economic challenges. The bank needs to investigate the specific reasons behind these disparities and develop strategies to address them. Neglecting regions with lower impact could result in missed business opportunities.
 
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/920487b2-48e8-46e5-9a6e-774f4405fc99)
-
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/3ff2bd0a-6d12-4b2b-b945-1bd3b180f16c)
 
 
 
