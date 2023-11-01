@@ -120,17 +120,25 @@ Problem: Customer churn can be a significant issue for the bank. High churn rate
 
 
 
-Regional Impact
+# Regional Impact: Customer Presence and Customer Churn
 
-Explanation: The analysis showed that the United States and Europe had the highest total deposits, indicating strong customer engagement. However, regions like Africa had comparatively lower customer retention and impact.
+Explanation:
+The analysis revealed that the United States and Europe had a strong customer presence and high retention rates. In contrast, regions like Africa displayed comparatively lower customer retention and impact. The data provides a clear picture of customer distribution across various regions, offering vital insights for the bank's understanding of its customer base. When we connect this information with our earlier examination of banking nodes (locations), a compelling pattern emerges. It becomes evident that regions with a higher count of consumers often coincide with regions hosting a more extensive network of banking nodes.
 
-Problem: The regional disparities in customer retention and impact highlight potential issues for the bank. Lower retention rates in certain regions could be due to various factors, such as inadequate services, lack of tailored products, or external economic challenges. The bank needs to investigate the specific reasons behind these disparities and develop strategies to address them. Neglecting regions with lower impact could result in missed business opportunities.
+For example, the United States, with the highest count of consumers at 770, aligns with our previous findings of an extensive banking node network, highlighting a robust presence and high customer activity in this region. Similarly, Europe's 735 consumers correspond to the significant number of banking nodes, signifying a flourishing financial environment with diverse services. The number of consumers in Australia, Asia, and Africa also corresponds with the banking activity observed in those regions.
 
+The analysis extends to a KDE plot, offering further insights. It becomes apparent that each region managed to retain more customers than they lost, indicating a successful overall customer retention strategy. However, the data also reveals that Region 5, corresponding to Africa, had the lowest number of retained customers, while Region 1, representing the United States, had the highest retention rate.
+
+This finding carries significance for the bank as it suggests that while the overall customer retention strategy is effective, specific challenges or factors may be affecting customer retention in the African region. This could imply that the bank needs to pay closer attention to this region and consider tailoring retention strategies to address region-specific issues.
+
+Problem:
+The regional disparities in customer retention and impact underscore potential challenges for the bank. Lower retention rates in certain regions may result from various factors, including inadequate services, the absence of tailored products, or external economic challenges. To address these disparities and avoid missed business opportunities, the bank must investigate the specific reasons behind these differences and develop strategies to rectify them. Neglecting regions with lower impact could lead to missed growth potential and a less effective market presence.
 
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/3ff2bd0a-6d12-4b2b-b945-1bd3b180f16c)
 
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/ccfbacd4-b723-4567-bd5b-e1eced040d41)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/16338472-aa0b-46b5-8805-d8ccd438dc21)
+
 
 
 
