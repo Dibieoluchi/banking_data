@@ -3,6 +3,8 @@
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/06434477-6fd1-476f-978e-f48231921e13)
 
 Introduction
+
+
 In the ever-evolving world of banking and finance, understanding customer behavior and the regional impact of transactions plays a crucial role in decision-making and strategic planning. This project, titled "Analyzing Banking Trends: Customer Transactions and Regional Impact," explores and analyzes vast troves of transaction data to gain valuable insights into customer behavior patterns and their implications on different world regions.
 
 
@@ -18,7 +20,11 @@ In this data work, we will delve into the findings of the analysis, showcasing t
 
 5. Data Limitations: It's important to acknowledge the limitations of the data, including the restricted time frame (data for only two years) and other potential constraints.
 
+
+
  Skills Demonstrated
+
+ 
 In this project, we leveraged several data analysis skills to uncover insights. The following skills were demonstrated:
 
 
@@ -52,7 +58,8 @@ Customer Distribution and Region Impact:
 Explanation: The analysis revealed significant disparities in customer distribution across different regions. The United States had the highest number of customers, whereas Russia and China had the lowest. Additionally, the number of banking nodes (physical locations) in each region varied, with the United States, Europe, and Australia having the most nodes.
 
 Problem: The discrepancy in customer distribution can pose challenges for the bank. Regions with a lower number of customers may have untapped market potential, while regions with a high number of customers may face increased competition and resource allocation challenges. Furthermore, the number of banking nodes reflects the bank's physical presence, and imbalances in node distribution could impact customer convenience and accessibility.
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/6fa8ec88-0a46-4782-be6b-37dab694237f)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/59022715-dbd2-4980-b59b-a45ca5076578)
+
 
 Transaction Types
 
