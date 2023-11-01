@@ -10,7 +10,7 @@ In the ever-evolving world of banking and finance, understanding customer behavi
 
 In this data work, we will delve into the findings of the analysis, showcasing the skills employed in SQL and Python for data manipulation, visualization, and the subsequent impact on banking trends for a specific bank. The report will be structured into several sections:
 
-1. Skills Demonstrated: This section will highlight the SQL and Python skills used in the analysis, including joins, subqueries, CTEs, conditional statements, Python functions, and data visualization.
+1.  Skills Demonstrated: This section will highlight the SQL and Python skills used in the analysis, including joins, subqueries, CTEs, conditional statements, Python functions, and data visualization.
 
 2. Database ERD: We will provide an overview of the database schema and the relationship between the key tables used in the analysis.
 
@@ -28,14 +28,14 @@ In this data work, we will delve into the findings of the analysis, showcasing t
 In this project, we leveraged several data analysis skills to uncover insights. The following skills were demonstrated:
 
 
-SQL Skills:
+# SQL Skills:
 
 
 1.  Joins: We used SQL joins to combine data from multiple tables, such as joining customer data with transaction data based on customer IDs and regions.
 2.  Subqueries: Subqueries were utilized to retrieve specific data subsets within larger queries, enabling us to answer complex questions efficiently.
 3. Common Table Expressions (CTEs): CTEs were employed to create temporary result sets that could be used in subsequent queries, simplifying complex queries.
 4. Conditional Statements in SQL: Conditional statements like CASE were used to categorize data and make comparisons, such as identifying churned customers based on their last transaction date.
-Python Skills:
+# Python Skills:
 5. Data Manipulation in Python: Python was used for calculating summary statistics.
 6. Defining Functions in Python: Python functions were defined to encapsulate specific data processing tasks, making the code more modular and readable.
 7. Data Visualization: Python libraries (e.g., Matplotlib or Seaborn) were used for data visualization, enabling the creation of informative charts to convey insights.
@@ -49,6 +49,8 @@ The database schema for this analysis consists of three key tables:
 1. world_regions: Contains data on various world regions and their corresponding codes and names.
 2. user_nodes: Holds details about consumers' banking nodes, including their unique consumer IDs, associated region IDs, node IDs, start dates, and end dates.
 3. user_transaction: A comprehensive repository of customer transactions, including data such as consumer IDs, transaction dates, types of transactions, and transaction amounts.
+
+
 The relationship between these tables is established through foreign key relationships, which allow for the creation of meaningful queries that draw connections between customer behavior and regional impact.
 
 # Analysis and Insights Generated
@@ -123,6 +125,8 @@ Problem: Customer churn can be a significant issue for the bank. High churn rate
 # Regional Impact: Customer Presence and Customer Churn
 
 Explanation:
+
+
 The analysis revealed that the United States and Europe had a strong customer presence and high retention rates. In contrast, regions like Africa displayed comparatively lower customer retention and impact. The data provides a clear picture of customer distribution across various regions, offering vital insights for the bank's understanding of its customer base. When we connect this information with our earlier examination of banking nodes (locations), a compelling pattern emerges. It becomes evident that regions with a higher count of consumers often coincide with regions hosting a more extensive network of banking nodes.
 
 For example, the United States, with the highest count of consumers at 770, aligns with our previous findings of an extensive banking node network, highlighting a robust presence and high customer activity in this region. Similarly, Europe's 735 consumers correspond to the significant number of banking nodes, signifying a flourishing financial environment with diverse services. The number of consumers in Australia, Asia, and Africa also corresponds with the banking activity observed in those regions.
@@ -134,10 +138,13 @@ This finding carries significance for the bank as it suggests that while the ove
 Problem:
 The regional disparities in customer retention and impact underscore potential challenges for the bank. Lower retention rates in certain regions may result from various factors, including inadequate services, the absence of tailored products, or external economic challenges. To address these disparities and avoid missed business opportunities, the bank must investigate the specific reasons behind these differences and develop strategies to rectify them. Neglecting regions with lower impact could lead to missed growth potential and a less effective market presence.
 
+
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/69a26d1d-5801-4db5-83ef-43d415540a3a)
+
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/3ff2bd0a-6d12-4b2b-b945-1bd3b180f16c)
 
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/16338472-aa0b-46b5-8805-d8ccd438dc21)
+
 
 
 
