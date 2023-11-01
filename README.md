@@ -102,7 +102,8 @@ some customers have churned without making any transaction at all ,while others 
 
 Problem: Customer churn can be a significant issue for the bank. High churn rates indicate a potential loss of revenue, and understanding the reasons behind churn is critical. The observation that customers with 'deposit' transaction behavior exhibit a higher likelihood of churning could suggest that the bank needs to provide more diverse and tailored financial products to retain these customers. Additionally, identifying and retaining high-value churned customers should be a priority.
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/b923a4bb-4d8c-43f3-9ae3-e54ae2c241ad)
+![Image Alt Text](![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/b923a4bb-4d8c-43f3-9ae3-e54ae2c241ad)
+)
 
 Regional Impact
 
