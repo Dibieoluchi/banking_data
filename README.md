@@ -21,19 +21,23 @@ In this data work, we will delve into the findings of the analysis, showcasing t
  Skills Demonstrated
 In this project, we leveraged several data analysis skills to uncover insights. The following skills were demonstrated:
 
+
 SQL Skills:
-. Joins: We used SQL joins to combine data from multiple tables, such as joining customer data with transaction data based on customer IDs and regions.
-. Subqueries: Subqueries were utilized to retrieve specific data subsets within larger queries, enabling us to answer complex questions efficiently.
-. Common Table Expressions (CTEs): CTEs were employed to create temporary result sets that could be used in subsequent queries, simplifying complex queries.
-. Conditional Statements in SQL: Conditional statements like CASE were used to categorize data and make comparisons, such as identifying churned customers based on their last transaction date.
+
+
+1.  Joins: We used SQL joins to combine data from multiple tables, such as joining customer data with transaction data based on customer IDs and regions.
+2.  Subqueries: Subqueries were utilized to retrieve specific data subsets within larger queries, enabling us to answer complex questions efficiently.
+3. Common Table Expressions (CTEs): CTEs were employed to create temporary result sets that could be used in subsequent queries, simplifying complex queries.
+4. Conditional Statements in SQL: Conditional statements like CASE were used to categorize data and make comparisons, such as identifying churned customers based on their last transaction date.
 Python Skills:
-. Data Manipulation in Python: Python was used for calculating summary statistics.
-. Defining Functions in Python: Python functions were defined to encapsulate specific data processing tasks, making the code more modular and readable.
-. Data Visualization: Python libraries (e.g., Matplotlib or Seaborn) were used for data visualization, enabling the creation of informative charts to convey insights.
+5. Data Manipulation in Python: Python was used for calculating summary statistics.
+6. Defining Functions in Python: Python functions were defined to encapsulate specific data processing tasks, making the code more modular and readable.
+7. Data Visualization: Python libraries (e.g., Matplotlib or Seaborn) were used for data visualization, enabling the creation of informative charts to convey insights.
 
 Database ERD
 The database schema for this analysis consists of three key tables:
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/18aea841-cd58-4649-a25c-f6277881a255)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/08d4535a-7047-41f4-ad6d-b51351766cff)
+
 
 world_regions: Contains data on various world regions and their corresponding codes and names.
 user_nodes: Holds details about consumers' banking nodes, including their unique consumer IDs, associated region IDs, node IDs, start dates, and end dates.
@@ -106,7 +110,7 @@ Explanation: The analysis showed that the United States and Europe had the highe
 
 Problem: The regional disparities in customer retention and impact highlight potential issues for the bank. Lower retention rates in certain regions could be due to various factors, such as inadequate services, lack of tailored products, or external economic challenges. The bank needs to investigate the specific reasons behind these disparities and develop strategies to address them. Neglecting regions with lower impact could result in missed business opportunities.
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/2dc7b0ab-3aaa-4a7e-bda7-55b498bf4720)
+
 
 
 Conclusion and Recommendations
