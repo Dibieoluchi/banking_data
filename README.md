@@ -57,7 +57,7 @@ The relationship between these tables is established through foreign key relatio
 
 The analysis yielded several key insights:
 
-Customer Distribution and Region Impact:
+# Customer Distribution and Region Impact:
 
 
 Explanation: The analysis revealed significant disparities in customer distribution across different regions. The United States had the highest number of customers, whereas Russia and China had the lowest. Additionally, the number of banking nodes (physical locations) in each region varied, with the United States, Europe, and Australia having the most nodes.
@@ -66,7 +66,7 @@ Problem: The discrepancy in customer distribution can pose challenges for the ba
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/59022715-dbd2-4980-b59b-a45ca5076578)
 
 
-Transaction Types
+# Transaction Types
 
 Explanation: The primary transaction types observed were withdrawals, purchases, and deposits. Deposits were common and significant, with customers making around 5 deposits on average, totaling approximately $2,718 each.
 
@@ -78,7 +78,7 @@ Problem: While the analysis provides valuable information about customer transac
 
 
 
- Customer Churn Analysis
+# Customer Churn Analysis
 
 Explanation: The analysis indicated that approximately 14.28% of customers had churned by the end of 2020, while 85.72% were retained. Furthermore, churned customers had varying transaction amounts, with some making high-value transactions.
 
@@ -139,7 +139,8 @@ Problem:
 The regional disparities in customer retention and impact underscore potential challenges for the bank. Lower retention rates in certain regions may result from various factors, including inadequate services, the absence of tailored products, or external economic challenges. To address these disparities and avoid missed business opportunities, the bank must investigate the specific reasons behind these differences and develop strategies to rectify them. Neglecting regions with lower impact could lead to missed growth potential and a less effective market presence.
 
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/69a26d1d-5801-4db5-83ef-43d415540a3a)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/91406a92-d7d5-465f-80d5-d5100cb4056c)
+
 
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/3ff2bd0a-6d12-4b2b-b945-1bd3b180f16c)
 
