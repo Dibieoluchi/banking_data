@@ -154,17 +154,24 @@ The regional disparities in customer retention and impact underscore potential c
 
 Conclusion and Recommendations:
 
+
 In conclusion, our analysis has revealed important opportunities for the bank to improve its services and customer retention. Here are some straightforward recommendations:
 
 1. Regional Focus:
 
 Actionable Recommendation: Identify regions with fewer customers and lower retention rates, such as Africa. To address this, the bank can set up local branches and improve customer support in these areas. This will make banking more accessible and build trust in underserved regions.
+
+
 2. Customer Engagement:
 
 Actionable Recommendation: Customers who primarily save should be educated about investment opportunities. The bank can create simple brochures or online tutorials explaining the benefits of investments like mutual funds or certificates of deposit. Make sure this information is readily available on the bank's website.
+
+
 3. Product Development:
 
 Actionable Recommendation: Design region-specific savings accounts or loans that cater to the unique needs of customers in different areas. Create marketing materials that clearly explain these products, their advantages, and how to open or apply for them.
+
+
 4. Data-Driven Marketing:
 
 Actionable Recommendation: Use data to personalize marketing efforts. Send tailored messages to customers based on their transaction history. For example, if a customer mainly deposits money, send them information about the bank's high-yield savings account with a clear explanation of how it works and the benefits.
