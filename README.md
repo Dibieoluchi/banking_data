@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/06434477-6fd1-476f-978e-f48231921e13)
 
-Introduction
+# Introduction
 
 
 In the ever-evolving world of banking and finance, understanding customer behavior and the regional impact of transactions plays a crucial role in decision-making and strategic planning. This project, titled "Analyzing Banking Trends: Customer Transactions and Regional Impact," explores and analyzes vast troves of transaction data to gain valuable insights into customer behavior patterns and their implications on different world regions.
@@ -22,7 +22,7 @@ In this data work, we will delve into the findings of the analysis, showcasing t
 
 
 
- Skills Demonstrated
+ # Skills Demonstrated
 
  
 In this project, we leveraged several data analysis skills to uncover insights. The following skills were demonstrated:
@@ -40,7 +40,7 @@ Python Skills:
 6. Defining Functions in Python: Python functions were defined to encapsulate specific data processing tasks, making the code more modular and readable.
 7. Data Visualization: Python libraries (e.g., Matplotlib or Seaborn) were used for data visualization, enabling the creation of informative charts to convey insights.
 
-Database ERD
+# Database ERD
 The database schema for this analysis consists of three key tables:
 
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/08d4535a-7047-41f4-ad6d-b51351766cff)
@@ -51,11 +51,13 @@ The database schema for this analysis consists of three key tables:
 3. user_transaction: A comprehensive repository of customer transactions, including data such as consumer IDs, transaction dates, types of transactions, and transaction amounts.
 The relationship between these tables is established through foreign key relationships, which allow for the creation of meaningful queries that draw connections between customer behavior and regional impact.
 
-Analysis and Insights Generated
+# Analysis and Insights Generated
 
 The analysis yielded several key insights:
 
 Customer Distribution and Region Impact:
+
+
 Explanation: The analysis revealed significant disparities in customer distribution across different regions. The United States had the highest number of customers, whereas Russia and China had the lowest. Additionally, the number of banking nodes (physical locations) in each region varied, with the United States, Europe, and Australia having the most nodes.
 
 Problem: The discrepancy in customer distribution can pose challenges for the bank. Regions with a lower number of customers may have untapped market potential, while regions with a high number of customers may face increased competition and resource allocation challenges. Furthermore, the number of banking nodes reflects the bank's physical presence, and imbalances in node distribution could impact customer convenience and accessibility.
@@ -81,14 +83,14 @@ Explanation: The analysis indicated that approximately 14.28% of customers had c
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c8011033-9f5a-4808-a29e-4326034b0ca7)
 
 # churned_summary
-count    5864.000000
-mean      504.228513
-std       288.189135
-min         0.000000
-25%       256.000000
-50%       503.000000
-75%       753.000000
-max      1000.000000
+1. count    5864.000000
+2. mean      504.228513
+3. std       288.189135
+4. min         0.000000
+5. 25%       256.000000
+6. 50%       503.000000
+7. 75%       753.000000
+8. max      1000.000000
 
 
 Mean: On average, these customers had a typical transaction of around $504.23.
@@ -128,10 +130,11 @@ Problem: The regional disparities in customer retention and impact highlight pot
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/3ff2bd0a-6d12-4b2b-b945-1bd3b180f16c)
 
 
-![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c776484e-e695-4ade-91fb-9f51d9d961a9)
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/ccfbacd4-b723-4567-bd5b-e1eced040d41)
 
 
-Conclusion and Recommendations
+
+# Conclusion and Recommendations
 
 In conclusion, the analysis of customer transactions and their regional impact has provided valuable insights for this bank. The bank can make data-driven decisions to enhance its services and customer retention efforts. Recommendations based on the analysis include:
 
@@ -144,8 +147,8 @@ In conclusion, the analysis of customer transactions and their regional impact h
 4. Data-Driven Marketing: Use data insights to design more targeted marketing campaigns and personalized services to prevent churn and increase customer loyalty.
    
 
-Data Limitations
+# Data Limitations
 
-It's essential to acknowledge the limitations of the data, including the restricted time frame with data available for only two years. This limitation may affect the depth of insights related to long-term trends and changes in customer behavior. Additionally, external factors and macroeconomic conditions may influence regional impact beyond what is captured in the dataset.
+It's essential to acknowledge the limitations of the data, including the restricted time frame with data available for only two years. This limitation may affect the depth of insights related to long-term trends and changes in customer behavior. Additionally, external factors and macroeconomic conditions may influence regional impacts beyond what is captured in the dataset.
 
 In conclusion, the combination of SQL and Python skills, coupled with data visualization, has allowed for a comprehensive analysis of customer transactions and their regional impact, offering actionable insights for the bank's strategic planning and decision-making. This approach can be a valuable asset for any financial institution seeking to optimize its services and improve customer retention.
