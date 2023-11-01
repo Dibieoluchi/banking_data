@@ -67,6 +67,9 @@ Transaction Types
 Explanation: The primary transaction types observed were withdrawals, purchases, and deposits. Deposits were common and significant, with customers making around 5 deposits on average, totaling approximately $2,718 each.
 
 Problem: While the analysis provides valuable information about customer transaction behavior, it raises questions about the reasons behind high deposit activity. Are customers using the bank primarily as a savings institution? Are there enough investment and lending opportunities to make use of these deposits? It's essential for the bank to ensure that customers' financial needs and expectations are being met effectively.
+
+
+
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c798831a-63fb-4742-b6ac-c8460578e070)
 
 
@@ -125,6 +128,7 @@ Problem: The regional disparities in customer retention and impact highlight pot
 ![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/3ff2bd0a-6d12-4b2b-b945-1bd3b180f16c)
 
 
+![image](https://github.com/Dibieoluchi/banking_data/assets/88893142/c776484e-e695-4ade-91fb-9f51d9d961a9)
 
 
 Conclusion and Recommendations
